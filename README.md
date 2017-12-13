@@ -2,8 +2,9 @@
 
 This repo contains MATLAB and Python functions that can be used to calculate NRI metrics (NRI, precision, and recall) given a count table of matching synaptic terminals.
 
-Demo scripts are provided for each language.
+The NRI is described in an arXiv technial report: [Neural Reconstruction Integrity: A metric for assessing the connectivity of reconstructed neural networks](https://arxiv.org/abs/1702.02684)
 
+Demo scripts are provided for each language.
 
 The count table in the demo files is:
 
